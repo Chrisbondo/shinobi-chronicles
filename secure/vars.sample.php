@@ -13,6 +13,6 @@ $register_open = true;
 
 //Host needs to match the DB's host. For docker setup, rename it to "shinobi-chronicles-db".
 $host = 'localhost';
-$username = 'database_username';
-$password = 'database_password';
-$database = 'database_name';
+$username = 'shinobi_chronicles';
+$password = '12345';
+$database = 'shinobi_chronicles';
